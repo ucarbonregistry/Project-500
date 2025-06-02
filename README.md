@@ -1,8 +1,70 @@
 # Project-500
 Vaayu India Wind Power Project in Gujarat
 
+The scale of the project activity Large-Scale Wind Project
+
+Project participants Vaayu India Power Corporation Pvt Ltd
+
+Host Party India
+
+Applied methodologies and standardized
+baselines
+ACM0002-Consolidated
+baseline methodology for grid-connected
+electricity generation from
+renewable sources -Version 22.0
+
+Sectoral scopes 01 Energy industries (Renewable/Nonrenewable Sources)
+
+The project activity includes development, design, engineering, procurement, finance, construction,
+operation and maintenance of Vaayu 51.2 MW wind power project (“Project”) in the Indian state of
+Gujarat to provide reliable, renewable power to the Gujarat state electricity grid which is part of
+Indian grid. The Project leads to reduce greenhouse gas emissions because it displaces electricity
+from grid connected fossil fuel-based electricity generation plants. The Project involves 64 wind
+energy converters (WECs) of 800 kW E-53 with internal electrical lines connecting the Project with
+local evacuation facility.
+
+The first WEC under the project activity was commissioned on 25 June 2010 and the last WEC
+under the project activity was commissioned on 4 July 2011. The expected operational lifetime of
+the project is 20 years.
+
+The details of the registered project are as follows:
+Vaayu (India) Power Corporation Private Limited (VIPCPL) is developing 51.2 MW wind farm in
+the state of Gujarat in India. The project activity involves supply, erection, commissioning and
+operation of 64 machines of rated capacity 800 KW each. The machines are Enercon E-53 make.
+The project will generate 115.312 GWh of electricity per year which shall be supplied to the state
+electricity utility thereby reducing the energy demand supply gap in the state of Gujarat. The
+project activity will assist the sustainable growth of the region by providing clean and green
+electricity to the state electricity grid.
+
+The purpose of the project activity is to generate emission free and environment friendly electricity
+from the wind energy potential available in the region. The project is expected to generate and
+supply 1,15,312.44 MWh of electricity annually to the Indian grid. The project thus addresses the
+demand–supply gap in the state of Gujarat and will assist the sustainable growth, conservation of
+resources and reduction of greenhouse gas emissions by using renewable energy source like wind
+energy. The project activity will contribute towards reduction of greenhouse gas (GHG) emission
+from the atmosphere, which has been estimated to be approximately 92,238 tCO2e per year, by
+displacing an equivalent amount of electricity generation through the operation of existing fuel mix
+in the grid comprising mainly of fossil fuel-based power plants. Thus, the project does not only
+reduce the demand-supply gap of the respective grid, but also helps in reducing other pollutants
+like SOx, NOx, etc. from the atmosphere. In the absence of the project activity the equivalent
+amount of electricity would have been generated from the connected/ new power plants in the
+Indian grid, which are/ will be predominantly based on fossil fuels.
+
+This is also the pre-project scenario. The technology employed for the project is well proven and
+safe. Wind World (India) Limited (hereinafter referred as “Wind World” or “WWIL”) is the
+equipment supplier and the Operation and Maintenance contractor for the Project.
+Relevant dates for the project activity (e.g. construction, commissioning, continued operation
+periods, etc.):
+
+The starting date of operation of the project activity is 14/02/2011, when the first machine of the
+project was commissioned. 
 _____
 PRIOR HISTORY:
+The project activity is registered under Clean Development Mechanism (CDM) project with
+registration number 4700, as well as Gold Standard (GS) with reference number 3958. The crediting
+period of this project under CDM & GS was 01/01/2020 to 31/05/2021. 
+
 _____
 CDM Project 4700 : Vaayu India Wind Power Project in Gujarat.
 
@@ -87,7 +149,9 @@ Serial Range: Block start: IN-5-277270144-2-2-0-4700      Block end: IN-5-277430
 ________
 GOLD STANDARD:
 
-Number of Credits: 245058
+https://registry.goldstandard.org/projects/details/2651
+
+Vaayu India Wind Power Project in Gujarat (GS3958 CER to VER conversion)
 
 74719 CERs	GS10661	Vaayu India Wind Power Project in Gujarat (GS3958 CER to VER conversion) : GS1-1-IN-GS10661-12-2014-19227-1-74719	
 
