@@ -59,8 +59,53 @@ periods, etc.):
 
 The starting date of operation of the project activity is 14/02/2011, when the first machine of the
 project was commissioned. 
-_____
+
+Sr no Meter type No of wtgs Mtr sr no Substation Accuracy Make Calibration date Calibration validity
+___________
+1 ss main line 2 GJ2459A 550055076 Sadodar 0.2 L &T 16.06.2021 17.06.2025
+_______________
+2 ss main line 1 GJ2458A 550055076 Sadodar 0.2 L &T 16.06.2021 17.06.2025
+_____________
+First CoU Issuance Period: 03 years 06 months 12 days
+
+UCR Project ID or Date of Authorization: 500
+
+Start Date of Crediting Period: 01/06/2021 to 31/12/2024
+
+Project Commissioned: 25/06/2010
+____________
+ISSUANCE DATE: 16/09/2025 
+
+MP-01: 01/06/2021-31/12/2024
+
+QTY: 264161
+_____________
+Serial Number: 0001-000001-048845-UCR-CoU-IN-500-01062021-31122021
+
+Vintage Year: 2021
+
+Quantity: 48845
+______________
+Serial Number: 0001-048846-125667-UCR-CoU-IN-500-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 76822
+_________
+Serial Number: 0001-125668-204094-UCR-CoU-IN-500-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 78427
+_____________
+Serial Number: 0001-204095-264161-UCR-CoU-IN-500-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 60067
+_______________
 PRIOR HISTORY:
+
 The project activity is registered under Clean Development Mechanism (CDM) project with
 registration number 4700, as well as Gold Standard (GS) with reference number 3958. The crediting
 period of this project under CDM & GS was 01/01/2020 to 31/05/2021. 
